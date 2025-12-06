@@ -24,8 +24,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/BlueC1/fem-challenge-recipe-page]
+- Live Site URL: [https://bluec1.github.io/fem-challenge-recipe-page/]
 
 
 
